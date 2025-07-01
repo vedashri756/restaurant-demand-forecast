@@ -8,6 +8,8 @@ Forecast restaurant demand and generate ingredient purchase plans using Python
 Here's the 30-day forecast of total restaurant orders based on historical trends:
 
 ![📈 Forecast Plot](outputs/forecast_plot.png)
+![📈 Forecast Plot](outputs/forecast_plot.png)
+
 
 ---
 
